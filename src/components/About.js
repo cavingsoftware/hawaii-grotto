@@ -8,7 +8,7 @@ export default function About() {
       </div>
       <div className="row">
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/Im8gTlP.png"></img>
+          <img src="https://i.imgur.com/Im8gTlP.png" alt="John Wilson"></img>
           <h2 className="pt-2">
             John
           </h2>
@@ -20,7 +20,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Allan Cobb"></img>
           <h2 className="pt-2">
             Allan
           </h2>
@@ -32,7 +32,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/ny5KLWg.png"></img>
+          <img src="https://i.imgur.com/ny5KLWg.png" alt="Kim Fedrick"></img>
           <h2 className="pt-2">
             Kim
           </h2>
@@ -44,7 +44,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Laura Richman"></img>
           <h2 className="pt-2">
             Laura
           </h2>
@@ -56,7 +56,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Kevin Ditamore"></img>
           <h2 className="pt-2">
             Kevin
           </h2>
@@ -68,7 +68,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Ben McCandless"></img>
           <h2 className="pt-2">
             Ben
           </h2>
@@ -80,7 +80,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Brady Long"></img>
           <h2 className="pt-2">
            Brady
           </h2>
@@ -92,7 +92,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Brandon Smith"></img>
           <h2 className="pt-2">
             Brandon
           </h2>
@@ -104,7 +104,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Chrissy Richards"></img>
           <h2 className="pt-2">
             Chrissy
           </h2>
@@ -116,7 +116,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/ysLqq9t.png"></img>
+          <img src="https://i.imgur.com/ysLqq9t.png" alt="Mary Wilson"></img>
           <h2 className="pt-2">
             Mary
           </h2>
@@ -128,7 +128,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/9fSIp9d.png"></img>
+          <img src="https://i.imgur.com/9fSIp9d.png" alt="Cindy Wu"></img>
           <h2 className="pt-2">
             Cindy
           </h2>
@@ -140,7 +140,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/UKkUjVx.png"></img>
+          <img src="https://i.imgur.com/UKkUjVx.png" alt="Jason Richards"></img>
           <h2 className="pt-2">
             Jason
           </h2>
@@ -152,7 +152,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Bob Richards"></img>
           <h2 className="pt-2">
             Bob
           </h2>
@@ -164,7 +164,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Tomislav Gracanin"></img>
           <h2 className="pt-2">
             Tomislav
           </h2>
@@ -176,7 +176,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png"></img>
+          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Peter Bosted"></img>
           <h2 className="pt-2">
             Peter
           </h2>
