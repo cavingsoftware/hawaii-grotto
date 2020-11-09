@@ -1,6 +1,7 @@
 @import-normalize;
 
 body {
-  background-image: url("https://i.imgur.com/6bqaWRL.png");
+  background: url("https://i.imgur.com/6bqaWRL.png") no-repeat;
   background-color: black;
+  background-size: 100%
 }
