@@ -1,0 +1,13 @@
+.nav-bar {
+  color: white;
+  background-color: rgba(0,0,0,0.4)
+}
+
+.about, .home {
+  cursor: pointer;
+}
+
+.about:hover, .home:hover {
+  color: darkred;
+}
+
