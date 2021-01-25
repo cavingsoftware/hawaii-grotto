@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="about-container container">
       <div className="header container pt-4">
-        <h1><span>Hawai'i Grotto</span> is a chapter of the National Speleological Society.</h1>
+        <h1><span>Hawaii Grotto</span> is a chapter of the National Speleological Society.</h1>
       </div>
       <div className="row">
         <div className="member-container p-4">
@@ -20,7 +20,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Allan Cobb"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreia5vj7or6lc7cfbhdws5jfxhg2tk5uj6uqnlolsh3t4ynigwvhn5e" alt="Allan Cobb"></img>
           <h2 className="pt-2">
             Allan
           </h2>
@@ -44,7 +44,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Laura Richman"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreibfptm2xz7dhyvdtttgdsvi3tzu4noik5fohg5wl7zuo7pnbqd2la" alt="Laura Richman"></img>
           <h2 className="pt-2">
             Laura
           </h2>
@@ -56,7 +56,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Kevin Ditamore"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreie4lsvbmkxviu5eaew35gatph7txm4qcb45il7m6z7ftsyfj4yxgu" alt="Kevin Ditamore"></img>
           <h2 className="pt-2">
             Kevin
           </h2>
@@ -80,19 +80,19 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Brady Long"></img>
+          <img src="https://i.imgur.com/PpEvt3G.png" alt="Annette Engel"></img>
           <h2 className="pt-2">
-           Brady
+           Annette
           </h2>
           <p>
-            Long
+            Engel
           </p>
           <p>
             <span>Director</span>
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Brandon Smith"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreiamzilnyulp4kopbojgprt66rz7jbki4urzabu7tzk5buc47lqouu" alt="Brandon Smith"></img>
           <h2 className="pt-2">
             Brandon
           </h2>
@@ -104,7 +104,7 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Chrissy Richards"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreidmnpgwhuswneymy7pi6zaaovltbclpzor3lm6ueyr3mjelplmqbq" alt="Chrissy Richards"></img>
           <h2 className="pt-2">
             Chrissy
           </h2>
@@ -128,7 +128,31 @@ export default function About() {
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/9fSIp9d.png" alt="Cindy Wu"></img>
+          <img src="https://i.imgur.com/bMZxN4v.png" alt="Adam Weaver"></img>
+          <h2 className="pt-2">
+            Adam
+          </h2>
+          <p>
+            Weaver
+          </p>
+          <p>
+            <span>Director</span>
+          </p>
+        </div>
+        <div className="member-container p-4">
+          <img src="https://slate.textile.io/ipfs/bafkreib7r3vxry33voisc4d7bitbsmfy7tqbjnoq3rnxwak6oyn6uvsztu" alt="Steve Bailey"></img>
+          <h2 className="pt-2">
+            Steve
+          </h2>
+          <p>
+            Bailey
+          </p>
+          <p>
+            <span>Director</span>
+          </p>
+        </div>
+        <div className="member-container p-4">
+          <img src="https://i.imgur.com/9fSIp9d.png" alt="Jason Richards"></img>
           <h2 className="pt-2">
             Cindy
           </h2>
@@ -136,23 +160,11 @@ export default function About() {
             Wu
           </p>
           <p>
-            <span>Director</span>
+            <span>Oahu Representative</span>
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/UKkUjVx.png" alt="Jason Richards"></img>
-          <h2 className="pt-2">
-            Jason
-          </h2>
-          <p>
-            Richards
-          </p>
-          <p>
-            <span>O'ahu Representative</span>
-          </p>
-        </div>
-        <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Bob Richards"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreihe4mni2klfomdrqompb6grqddgul2nl2ueaxminpcxu3kuzdx3di" alt="Bob Richards"></img>
           <h2 className="pt-2">
             Bob
           </h2>
@@ -172,11 +184,11 @@ export default function About() {
             Gracanin
           </p>
           <p>
-            <span>Cave Conservancy of Hawai'i</span>
+            <span>Cave Conservancy of Hawaii</span>
           </p>
         </div>
         <div className="member-container p-4">
-          <img src="https://i.imgur.com/4iPxSxQ.png" alt="Peter Bosted"></img>
+          <img src="https://slate.textile.io/ipfs/bafkreibzwe46jp3eqh4boy35ed6ivmc4lyasggbkuxvm72pj2n45mmhf4a" alt="Peter Bosted"></img>
           <h2 className="pt-2">
             Peter
           </h2>
@@ -184,7 +196,7 @@ export default function About() {
             Bosted
           </p>
           <p>
-            <span>Hawai'i Speleological Survey</span>
+            <span>Hawaii Speleological Survey</span>
           </p>
         </div>
       </div>
